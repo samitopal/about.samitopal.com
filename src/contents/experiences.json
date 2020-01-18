@@ -1,0 +1,110 @@
+[{
+  "company": "Turkcell",
+  "role": "Expert Technical Product Manager",
+  "date": "10/2019 - Present",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Technical Product Manager of Turkcell’s digital publishing product “Dergilik”",
+    "Dergilik connects you to the Turkey’s as well as world’s best newspapers andmagazines",
+     "<a href=\"https://dergilik.com.tr\" target=\"_blank\" >Dergilik Web Site</a>"
+  ]
+}, {
+  "company": "Turkcell",
+  "role": "Product Owner",
+  "date": "11/2017 - 10/2019",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Technical Product Manager of Turkcell’s digital publishing product “Dergilik”.",
+    "Dergilik connects you to the Turkey’s as well as world’s best newspapers and magazines"
+  ]
+}, {
+  "company": "Turk Telekom",
+  "role": "Technical Product Owner",
+  "date": "11/2015 - 11/2017",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Responsible for managing the product lifecycle, gathering and prioritizing requirements, communicating and cooperating effectively with all stakeholders to deliver products.",
+    "Muud (Türk Telekom Müzik) :Digital music streaming service in Turkey",
+    "Segment-Specific Applications: Türk Telekom Avantaj, Servisler Cebimde and Ringa",
+    "Social Responsibility and Accessibility Applications: Telefon Kütüphanesi, Internetle Hayat Kolay, Kitaplara Ses and Erişilebilir Yaşam",
+    "Survivor Arena and MAM Push SDK"
+  ]
+}, {
+  "company": "Eserim Bilişim A.Ş.",
+  "role": "Agile Project Manager",
+  "date": "05/2014 - 06/2015",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Avazplus (www.avazplus.com)",
+    "Avazplus is corporate mobile communication (Voice, message, media) application, similar to whatsapp with additional features.",
+    "AvazLab (www.avazlab.com)",
+    "AvazLab is a powerful and easy voice call library for Android and iOS"
+  ]
+}, {
+  "company": "Verigood",
+  "role": "Project Manager",
+  "date": "06/2012 - 05/2014",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Responsible management of multiple projects.",
+    "Marketing Projects:",
+    "Email and sms marketing,euromsg,powermta,amazon ses,email delivery",
+    "IT Projects:",
+    "Data cleansing and basic data mining task for email and sms marketing on Oracle DB"
+  ]
+}, {
+  "company": "AtlasGlobal Airlines",
+  "role": "Project Manager",
+  "date": "11/2010 - 07/2012",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Responsible for technical part of Target marketing",
+    "Data cleansing and basic data mining for target marketing",
+    "Email and sms marketing"
+  ]
+}, {
+  "company": "ANTE",
+  "role": "Co-Founder",
+  "date": "10/2010 - 08/2011",
+  "location": "Ankara, Turkey",
+  "description_bullets": [
+    "RASS developed for needs of Anadolu Jet Airlines.http://biletalarm.com",
+    "The system is still used by Turkish Airlines and Anadolu Jet.",
+    "Technical Keywords:",
+    "java, play framework, oracle, amazon cloud"
+  ]
+},
+  {
+    "company": "Fdn SOFT",
+    "role": "Software Team Lead",
+    "date": "06/2009 - 10/2010",
+    "location": "Ankara, Turkey",
+    "description_bullets": [
+      "Responsible for development of a special web crawler and analysis system. (ITAS) .",
+
+      "Responsibilities:",
+      "Getting requirements from customer",
+      "Analyse, design and implementation steps",
+      "Continuous communication with customer, managing change requests from customer",
+      "Techical Keywords:",
+      "c#, asp.net, oracle, msmq , big data"
+    ]
+  },
+  {
+    "company": "ORATECH Teknoloji Sistemleri",
+    "role": "Oracle DBA",
+    "date": "06/2008 - 05/2009",
+    "location": "Ankara, Turkey",
+    "description_bullets": [
+      "Oracle DBA and PL/SQL Developer.",
+
+      "Responsible for such task:",
+     " Data Cleansing,Data Enrcihment with PL/SQL on Oracle DB",
+      "ETL management with Informatica between different database and data warehouse",
+      "BI with Cognos on Sybase, design and analyse part",
+      "Testing different file system such as ZFS and different database such as Timesten In-Memory database",
+      "Informatica, Cognos and ZFS certificates"
+    ]
+  }
+
+]
