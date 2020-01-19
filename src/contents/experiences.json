@@ -5,6 +5,7 @@
   "location": "Istanbul, Turkey",
   "description_bullets": [
     "Technical Product Manager of Turkcell’s digital publishing product “Dergilik”",
+    "Dergilik has been downloaded by 10 million users up to now and has over 2 million monthly active users.",
     "Dergilik connects you to the Turkey’s as well as world’s best newspapers andmagazines",
      "<a href=\"https://dergilik.com.tr\" target=\"_blank\" >Dergilik Web Site</a>"
   ]
@@ -14,8 +15,11 @@
   "date": "11/2017 - 10/2019",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Technical Product Manager of Turkcell’s digital publishing product “Dergilik”.",
-    "Dergilik connects you to the Turkey’s as well as world’s best newspapers and magazines"
+    "Product Owner @fizy Mobile Apps (iOS/Android - Turkey's leading digital music service - https://fizy.com )",
+    "fizy has been downloaded by 10 million users up to now and has over 2 million monthly active users.",
+    "Building effective relationships with key stakeholders",
+    "Management backlog of user stories for mobile platforms",
+    "Applied Agile methods and processes to promote a disciplined and transparent project management process."
   ]
 }, {
   "company": "Turk Telekom",
@@ -23,38 +27,46 @@
   "date": "11/2015 - 11/2017",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Responsible for managing the product lifecycle, gathering and prioritizing requirements, communicating and cooperating effectively with all stakeholders to deliver products.",
-    "Muud (Türk Telekom Müzik) :Digital music streaming service in Turkey",
-    "Segment-Specific Applications: Türk Telekom Avantaj, Servisler Cebimde and Ringa",
-    "Social Responsibility and Accessibility Applications: Telefon Kütüphanesi, Internetle Hayat Kolay, Kitaplara Ses and Erişilebilir Yaşam",
-    "Survivor Arena and MAM Push SDK"
+    "Responsible for managing the product lifecycle, gathering and prioritizing requirements,
+    communicating and cooperating effectively with all stakeholders to deliver winning products :",
+    "Muud : Digital music streaming service/app (https://www.muud.com.tr)",
+    "Bi Dünya Fırsat: segment-specific Applications ( http://onelink.to/46g5mq)",
+    "Servisler Cebimde : segment-specific Application",
+    "Ringa : segment-specific Application",
+    "Telefon Kütüphanesi : Social Responsibility Application",
+    "Internetle Hayat Kolay: Social Responsibility Application",
+    "Kitaplara Ses : Social Responsibility Application",
+    "Erişilebilir Yaşam : Social Responsibility Application",
+    "Survivor Arena",
+    "MAM Push SDK"
   ]
 }, {
   "company": "Eserim Bilişim A.Ş.",
-  "role": "Agile Project Manager",
+  "role": "Software Development Manager",
   "date": "05/2014 - 06/2015",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Avazplus (www.avazplus.com)",
-    "Avazplus is corporate mobile communication (Voice, message, media) application, similar to whatsapp with additional features.",
-    "AvazLab (www.avazlab.com)",
-    "AvazLab is a powerful and easy voice call library for Android and iOS"
-  ]
-}, {
-  "company": "Verigood",
-  "role": "Project Manager",
-  "date": "06/2012 - 05/2014",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Responsible management of multiple projects.",
-    "Marketing Projects:",
-    "Email and sms marketing,euromsg,powermta,amazon ses,email delivery",
-    "IT Projects:",
-    "Data cleansing and basic data mining task for email and sms marketing on Oracle DB"
+    "Eserim Bilişim A.Ş. is a startup company founded in 2014,created a software development team that delivers VoIP communication solutions (which uses WebRTC)",
+    "Build a team of software developers from scratch (Resource planning, hiring)",
+    "Leading a team of 6 engineers with various responsibilities",
+    "Lead technical architect role",
+    "Taking part at development on both mobile apps and platform",
+    "Avazplus (www.avazplus.com) : Avazplus is corporate mobile communication (Voice, message, media) application, similar to whatsapp with additional features.",
+    "AvazLab (www.avazlab.com) : AvazLab is a powerful and easy voice call library for Android and iOS"
   ]
 }, {
   "company": "AtlasGlobal Airlines",
-  "role": "Project Manager",
+  "role": "Development Manager",
+  "date": "06/2012 - 05/2014",
+  "location": "Istanbul, Turkey",
+  "description_bullets": [
+    "Responsible management of multiple projects and teams",
+    "Marketing Projects: Email and sms marketing,euromsg,powermta,amazon ses,email delivery",
+    "IT Projects: Data cleansing and basic data mining task for email and sms marketing on Oracle DB"
+  ]
+}, {
+  "company": "AtlasGlobal Airlines",
+  "role": "Lead Development Engineer",
   "date": "11/2010 - 07/2012",
   "location": "Istanbul, Turkey",
   "description_bullets": [
@@ -70,25 +82,28 @@
   "description_bullets": [
     "RASS developed for needs of Anadolu Jet Airlines.http://biletalarm.com",
     "The system is still used by Turkish Airlines and Anadolu Jet.",
-    "Technical Keywords:",
-    "java, play framework, oracle, amazon cloud"
+    "Technical Keywords: java, play framework, oracle, amazon cloud"
   ]
 },
   {
     "company": "Fdn SOFT",
-    "role": "Software Team Lead",
+    "role": "Senior Software Developer",
     "date": "06/2009 - 10/2010",
     "location": "Ankara, Turkey",
     "description_bullets": [
       "Responsible for development of a special web crawler and analysis system. (ITAS) .",
-
-      "Responsibilities:",
       "Getting requirements from customer",
       "Analyse, design and implementation steps",
       "Continuous communication with customer, managing change requests from customer",
-      "Techical Keywords:",
-      "c#, asp.net, oracle, msmq , big data"
+      "Techical Keywords: c#, asp.net, oracle, msmq , big data"
     ]
+  },
+  {
+    "company": "Fdn SOFT",
+    "role": "Software Developer",
+    "date": "05/2009 - 06/2010",
+    "location": "Ankara, Turkey",
+    "description_bullets": []
   },
   {
     "company": "ORATECH Teknoloji Sistemleri",
@@ -96,14 +111,12 @@
     "date": "06/2008 - 05/2009",
     "location": "Ankara, Turkey",
     "description_bullets": [
-      "Oracle DBA and PL/SQL Developer.",
-
-      "Responsible for such task:",
-     " Data Cleansing,Data Enrcihment with PL/SQL on Oracle DB",
-      "ETL management with Informatica between different database and data warehouse",
+      "Oracle DBA and PL/SQL Developer",
+      "Data Cleansing, Data Enrichment with PL/SQL on Oracle DB",
+      "ETL management with Informatica between different database and  data warehouse",
       "BI with Cognos on Sybase, design and analyse part",
-      "Testing different file system such as ZFS and different database such as Timesten In-Memory database",
-      "Informatica, Cognos and ZFS certificates"
+      "Testing different file systems such as ZFS and different database such as TimesTen In-Memory database",
+      "Certificates: Oracle, Informatica, Cognos and ZFS"
     ]
   }
 
