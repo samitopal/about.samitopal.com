@@ -29,7 +29,7 @@
             <a href="{{personal_info.personal_site.url | trim}}" >{{personal_info.personal_site.title | trim}}</a>
             <i class="fa fa-globe"></i>
           </div>
-          
+
           <!--(bake-start _if="personal_info.mail")-->
           <div>
             <a href="mailto:{{personal_info.mail}}">{{personal_info.mail | clearWhitespaces}}</a>
@@ -122,21 +122,7 @@
         </div>
         <!--(bake-end)-->
 
-        <!--(bake-start _if="languages.length")-->
-        <div class="block">
-          <!--(bake _section-header.html title="Languages")-->
-          <section class="languages">
-            <ul class="bullets">
-              <!--(bake-start _foreach="language:languages")-->
-              <li class="inline fifty">
-                <span><strong>{{language.name | trim}}</strong>
-                  <!--(bake-start _if="language.level")-->- {{language.level | trim}}</span><!--(bake-end)-->
-              </li>
-              <!--(bake-end)-->
-            </ul>
-          </section>
-        </div>
-        <!--(bake-end)-->
+
       </div>
 
       <div class="col-sm-12 col-md-5 half-page" id="second-half-page">
@@ -219,6 +205,23 @@
           </section>
         </div>
         <!--(bake-end)-->
+
+        <!--(bake-start _if="languages.length")-->
+        <div class="block">
+          <!--(bake _section-header.html title="Languages")-->
+          <section class="languages">
+            <ul class="bullets">
+              <!--(bake-start _foreach="language:languages")-->
+              <li class="inline fifty">
+                <span><strong>{{language.name | trim}}</strong>
+                  <!--(bake-start _if="language.level")-->- {{language.level | trim}}</span><!--(bake-end)-->
+              </li>
+              <!--(bake-end)-->
+            </ul>
+          </section>
+        </div>
+        <!--(bake-end)-->
+        
       </div>
     </main>
     <!--(bake-start _if="dev=='true'")-->

@@ -95,14 +95,13 @@
       "Analyse, design and implementation steps",
       "Continuous communication with customer, managing change requests from customer",
       "Techical Keywords: c#, asp.net, oracle, msmq , big data"
-    ]
-  },
-  {
-    "company": "Fdn SOFT",
+    ],
     "role": "Software Developer",
     "date": "05/2009 - 06/2010",
     "location": "Ankara, Turkey",
-    "description_bullets": []
+    "description_bullets": [
+      "Responsible for development of a special web crawler and analysis system. (ITAS)"
+    ]
   },
   {
     "company": "ORATECH Teknoloji Sistemleri",
